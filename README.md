@@ -35,7 +35,6 @@ taller-microservicios-serverless/
 │   └── funcion-pedido/           (función Serverless de ejemplo)
 ├── respuestas/
 │   └── respuestas.md             (respuestas del taller)
-├── guia-taller.md                (guía del laboratorio)
 └── README.md
 ```
 
